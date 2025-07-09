@@ -1,0 +1,40 @@
+body {
+  font-family: Arial, sans-serif;
+  background: linear-gradient(to right, #f0f4ff, #f0e8ff);
+  margin: 0;
+  padding: 0;
+}
+
+nav {
+  background-color: #4b0082;
+  display: flex;
+  justify-content: center;
+  padding: 10px 0;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  padding: 14px 24px;
+  font-size: 18px;
+  transition: background 0.3s;
+}
+
+nav a:hover {
+  background-color: #7a1fa2;
+  border-radius: 6px;
+}
+
+.container {
+  text-align: center;
+  padding: 50px;
+}
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background: #4b0082;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
