@@ -1,0 +1,1 @@
+06/20/2025-18:35:22.123456  [**] [1:1000001:1] Suspicious HTTP Request [**] [Classification: Attempted Administrator Privilege Gain] [Priority: 1] {TCP} 192.168.1.2:12345 -> 10.0.0.5:80
