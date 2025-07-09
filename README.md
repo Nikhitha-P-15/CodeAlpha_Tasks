@@ -1,1 +1,2 @@
 # CodeAlpha_Tasks
+During the one-month internship, I gained valuable experience delving into various cybersecurity tools. From sniffing packets to capturing and analyzing them, detecting alerts, visualizing data, and identifying phishing attempts, I immersed myself in a wide array of cybersecurity tasks. As a cybersecurity enthusiast, I am still eager for more experiences and opportunities for growth in this field. I am grateful to CodeAlpha for providing this insightful opportunity, as it significantly contributed to my knowledge and skill development in the field.
