@@ -1,13 +1,13 @@
 # CodeAlpha_Tasks
 
-Task 1 - Basic Network Sniffer 
+#Task 1 - Basic Network Sniffer 
 In my first task, I explored network packet sniffing, Using Python and the Scapy library, I developed a network sniffer capable of capturing and analyzing various packet types, offering detailed insights into network traffic. 
   🔍 Through this project, I gained hands-on experience with:
   📌 Real-time packet inspection
   📌 Understanding protocol layers (TCP, UDP, ICMP, etc.)
   📌 Building practical tools for cybersecurity monitoring.
 
-Task 2 - Phishing Awareness Training
+#Task 2 - Phishing Awareness Training
 As part of Task 2 at CodeAlpha , I conducted an in-depth study of phishing, ranging from deceptive emails to sophisticated scams, gaining valuable insight into the tactics employed by cybercriminals.
 This experience reinforced a key principle: awareness and vigilance are the first and most critical lines of defense against cyberattacks.
 This project focused on identifying phishing techniques and educating users on how to recognize and respond to suspicious activities in the digital space.
@@ -20,7 +20,7 @@ This project focused on identifying phishing techniques and educating users on h
 
    🛡️ In a world full of digital threats, awareness is the strongest defense.
 
-Task 3 - Network Intrusion Detection System 
+#Task 3 - Network Intrusion Detection System 
 In this project, I configured Suricata to monitor network traffic and detect potential security threats by implementing custom rules and alerts, where I focused on developing a Network Intrusion Detection System (NIDS).
 As shown in the video, this project involved crafting a robust Python-based system designed to:
     🌐 Monitor network traffic in real-time for suspicious activities.
